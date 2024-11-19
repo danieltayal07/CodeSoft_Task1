@@ -42,7 +42,7 @@ int main() {
                 cout << "Very Close, But Still Ahead" << endl;
             }
         } else {
-            cout << "You're a G.O.A.T! You guessed the number my G, The Number Was - " << numbertoguess << " | Attempts Taken Were: " << totalattempts << " attempts." << endl;
+            cout << "You guessed the number, The Number Was - " << numbertoguess << " | Attempts Taken Were: " << totalattempts << " attempts." << endl;
             break;
         }
     }
